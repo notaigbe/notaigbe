@@ -1,17 +1,17 @@
 <!-- GitHub Profile README for @notaigbe -->
 
 <h1 align="center">Nathan Otaigbe</h1>
-<p align="center"><strong>Full-Stack Developer | API Engineer | Technical Problem Solver</strong></p>
+<p align="center"><strong>Full-Stack Developer | Software Engineer | Technical Problem Solver</strong></p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a full-stack software developer with a focus on building efficient, scalable, and user-centered web applications. My work spans backend APIs, modern frontends, and full product development—driven by strong attention to detail and a results-oriented mindset.
+I'm a full-stack software developer with a focus on building efficient, scalable, and user-centered web applications. My experience spans backend development, cross-platform mobile apps, and responsive frontend interfaces.
 
-- 💼 Experienced in delivering production-grade applications using modern JavaScript and Python frameworks.
-- 🎯 Proficient in architecting backend systems, integrating third-party APIs, and optimizing user experiences.
-- 🚀 Currently focused on building fast, responsive UIs with **Next.js** and developing robust APIs with **FastAPI** and **Django**.
+- 💼 Experienced in delivering production-grade applications using modern JavaScript, Python, and Java frameworks.
+- 🎯 Skilled in building RESTful APIs, integrating third-party services, and developing frontend interfaces with strong UI/UX focus.
+- 🚀 Currently working with **Next.js**, **FastAPI**, and **React Native** for mobile-first and cross-platform development.
 
 ---
 
@@ -21,12 +21,15 @@ I'm a full-stack software developer with a focus on building efficient, scalable
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
 </p>
 
@@ -34,14 +37,14 @@ I'm a full-stack software developer with a focus on building efficient, scalable
 
 ### 📌 Featured Projects
 
-#### [Franartic Portfolio](https://franartic.vercel.app)
-A modern and responsive portfolio website for a professional makeup artist, built with React and TailwindCSS.
+#### [Franartic Portfolio](https://franartic.vercel.app)  
+A modern, mobile-responsive website for a professional makeup artist, showcasing portfolio and client testimonials.
 
-#### [Lucknos Transport Website](https://lucknostransport.com)
-A full-featured website for a transport investment company, with custom frontend UI and backend content management system.
+#### [Lucknos Transport Website](https://lucknostransport.com)  
+Corporate website for a tricycle investment company. Features a clean UI, clear service breakdown, and contact automation.
 
-#### [AI Homily Generator](#) *(In development)*
-A FastAPI-powered backend for generating spiritual content using AI, designed for priests and ministry workers.
+#### [AI Homily Generator](#) *(In development)*  
+A FastAPI-powered backend for generating AI-assisted homilies and spiritual content to support ministry teams.
 
 ---
 
@@ -65,7 +68,7 @@ A FastAPI-powered backend for generating spiritual content using AI, designed fo
 
 ### 🤝 Let's Connect
 
-If you're looking to collaborate on a project, hire a developer, or simply connect—feel free to reach out via [email](mailto:yourname@email.com) or [LinkedIn](https://linkedin.com/in/notaigbe).
+If you're looking to collaborate, discuss a technical project, or explore development opportunities—feel free to connect via [LinkedIn](https://linkedin.com/in/notaigbe) or [email](mailto:notaigbe@gnotable.ng).
 
 > *“Great software is built through clarity, collaboration, and craftsmanship.”*
 
