@@ -52,7 +52,7 @@ A FastAPI-powered backend for generating AI-assisted homilies and spiritual cont
 
 - **Portfolio:** [notaigbe.github.io](https://notaigbe.github.io)
 - **LinkedIn:** [linkedin.com/in/notaigbe](https://linkedin.com/in/notaigbe)
-- **Email:** [yourname@email.com](mailto:notaigbe@gnotable.ng)
+- **Email:** [notaigbe@gnotable.ng](mailto:notaigbe@gnotable.ng)
 
 ---
 
