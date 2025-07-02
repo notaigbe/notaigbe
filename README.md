@@ -37,7 +37,7 @@ I'm a full-stack software developer with a focus on building efficient, scalable
 
 ### 📌 Featured Projects
 
-#### [Franartic Portfolio](https://franartic.vercel.app)  
+#### [Franartic Portfolio](https://franartic.onrender.com)  
 A modern, mobile-responsive website for a professional makeup artist, showcasing portfolio and client testimonials.
 
 #### [Lucknos Transport Website](https://lucknostransport.com)  
